@@ -10,8 +10,8 @@
 
 ## 项目域名
 - 测试环境
-> 例子: http://{app}.test.liruan.cn/
+> 例子: {app}.test.liruan.cn
 - 预生产环境
-> 例子：http://{app}.beta.liruan.cn/
+> 例子：{app}.beta.liruan.cn
 - 生产环境
-> 例子：http://www.{app}.cn/ 或 http://{app}.prod.liruan.cn/
+> 例子：www.{app}.cn 或 {app}.prod.liruan.cn
