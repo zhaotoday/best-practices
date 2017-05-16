@@ -14,4 +14,4 @@
 - 预生产环境
 > 例子：http://{app}.beta.liruan.cn/
 - 生产环境
-> 例子http://www.{app}.cn/ 或 http://{app}.prod.liruan.cn/
+> 例子：http://www.{app}.cn/ 或 http://{app}.prod.liruan.cn/
