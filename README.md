@@ -3,12 +3,12 @@
 
 ## 二、CDN
 #### 1. 公共库 CDN
-公共库的引用请用 `cdn.liruan.cn` 域名，请到 [CDNJS](https://cdnjs.com/) 上获取公共库的最新版本。例子：
-> `//cdn.liruan.cn/jquery/3.2.1/jquery.min.js`
+公共库的引用请用 `cdn.liruan.cn` 域名，请到 [CDNJS](https://cdnjs.com/) 上获取公共库的最新版本。
+> 如：`//cdn.liruan.cn/jquery/3.2.1/jquery.min.js`
 
 #### 2. 项目静态资源 CDN
-项目静态资源请用 `lrcdn.cn` 域名。例子：
-> `//{app}.lrcdn.cn/static/styles/commons.css`
+项目静态资源请用 `lrcdn.cn` 域名。
+> 如：`//{app}.lrcdn.cn/static/styles/commons.css`
 
 ## 三、项目环境地址
 测试环境
