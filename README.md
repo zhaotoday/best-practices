@@ -57,28 +57,36 @@ hotfix 发布
 ```
 
 ## 五、工具
-- IDE
+IDE
 ```
 WebStorm、PhpStorm
 ```
 
-- 控制面板
+控制面板
 ```
-[宝塔](https://www.bt.cn/)
+宝塔
 ```
-- 服务器环境
+[链接](https://www.bt.cn/)
+
+服务器环境
 ```
 php + nginx；
 ```
-- 部署系统
+
+部署系统
 ```
-[瓦力上线部署](https://walle-web.io/)
+瓦力上线部署
 ```
-- git 工作流
+[链接](https://walle-web.io/)
+
+git 工作流
 ```
-[gitflow 工作流](https://github.com/zhaotoday/product-workflow)
+gitflow 工作流
 ```
-- 命令行工具
+[链接](https://github.com/zhaotoday/product-workflow)
+
+命令行工具
 ```
-Windows 下推荐使用 [cmder](http://cmder.net/)
+Windows 下推荐使用 cmder
 ```
+[链接](http://cmder.net/)
