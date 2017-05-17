@@ -31,55 +31,32 @@
 > [每天]  01:00-04:00
 
 大版本发布
-```
-[周四]  18:30
-```
+> [周四]  18:30
 
 hotfix 发布
-```
-[随时]  严重 bug 需在 4 个小时内发布
-```
+> [随时]  严重 bug 需在 4 个小时内发布
 
 ## 五、工具
 IDE
-```
-WebStorm、PhpStorm
-```
+> WebStorm、PhpStorm
 
 控制面板
-```
-宝塔
-```
-[链接](https://www.bt.cn/)
+> [宝塔](https://www.bt.cn/)
 
 服务器环境
-```
-php + nginx
-```
+> php + nginx
 
 服务器安全软件
-```
-云锁
-```
-[链接](http://www.yunsuo.com.cn/)
+> [云锁](http://www.yunsuo.com.cn/)
 
 部署系统
-```
-瓦力上线部署
-```
-[链接](https://walle-web.io/)
+> [瓦力上线部署](https://walle-web.io/)
 
 搭建自助 Git 服务
 > [gogs](https://gogs.io/)
 
 git 工作流
-```
-gitflow 工作流
-```
-[链接](https://github.com/zhaotoday/product-workflow)
+> [gitflow 工作流](https://github.com/zhaotoday/product-workflow)
 
 命令行工具
-```
-Windows 下推荐使用 cmder
-```
-[链接](http://cmder.net/)
+> Windows 下推荐使用 [cmder](http://cmder.net/)
