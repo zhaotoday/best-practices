@@ -14,7 +14,7 @@
 //{app}.lrcdn.cn/static/styles/commons.css
 ```
 
-## 三、项目网址
+## 三、项目环境地址
 测试环境
 ```
 https://{app}.test.liruan.cn
@@ -30,7 +30,7 @@ https://{app}.beta.liruan.cn
 https://www.{app}.cn 或 https://{app}.prod.liruan.cn
 ```
 
-## 四、时间
+## 四、时间管理
 例会
 ```
 [周一]  10:00-11:00
@@ -53,7 +53,7 @@ https://www.{app}.cn 或 https://{app}.prod.liruan.cn
 
 hotfix 发布
 ```
-随时，严重 bug 需在 4 个小时内发布
+[随时]  严重 bug 需在 4 个小时内发布
 ```
 
 ## 五、工具
@@ -70,7 +70,7 @@ WebStorm、PhpStorm
 
 服务器环境
 ```
-php + nginx；
+php + nginx
 ```
 
 部署系统
