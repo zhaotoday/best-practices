@@ -9,9 +9,9 @@
 ```
 
 #### 2. 项目静态资源 CDN
-- 项目静态资源请用 `lrcdn.cn` 域名；
+项目静态资源请用 `lrcdn.cn` 域名。例子：
 ```
-如：//{app}.lrcdn.cn/static/styles/commons.css
+//{app}.lrcdn.cn/static/styles/commons.css
 ```
 
 ## 三、项目网址
