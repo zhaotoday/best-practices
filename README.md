@@ -60,3 +60,10 @@ git 工作流
 
 命令行工具
 > Windows 下推荐使用 [cmder](http://cmder.net/)
+
+## 服务商
+云服务器
+> [小鸟云](https://www.niaoyun.com/)、[腾讯云](https://www.qcloud.com/)、[景安](http://www.zzidc.com/)、[阿里云](https://www.aliyun.com/)
+
+CDN
+> [七牛云](https://www.qiniu.com/)
