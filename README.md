@@ -58,9 +58,28 @@ https://www.{app}.cn 或 https://{app}.prod.liruan.cn
 ```
 
 ## 五、工具
-- IDE：WebStorm、PhpStorm；
-- 控制面板：[宝塔](https://www.bt.cn/)；
-- 服务器环境：php + nginx；
-- 部署系统：[瓦力上线部署](https://walle-web.io/)；
-- git 工作流：[gitflow 工作流](https://github.com/zhaotoday/product-workflow)；
-- 命令行工具：Windows 下推荐使用 [cmder](http://cmder.net/)；
+- IDE
+```
+WebStorm、PhpStorm
+```
+
+- 控制面板
+```
+[宝塔](https://www.bt.cn/)
+```
+- 服务器环境
+```
+php + nginx；
+```
+- 部署系统
+```
+[瓦力上线部署](https://walle-web.io/)
+```
+- git 工作流
+```
+[gitflow 工作流](https://github.com/zhaotoday/product-workflow)
+```
+- 命令行工具
+```
+Windows 下推荐使用 [cmder](http://cmder.net/)
+```
