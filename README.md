@@ -61,8 +61,8 @@ git 工作流
 命令行工具
 > Windows 下推荐使用 [cmder](http://cmder.net/)
 
-CDN、匀加速
-> [知道创宇](https://www.yunaq.com/)
+CDN 加速、防 DDos
+> [知道创宇云安全](https://www.yunaq.com/)、[百度云加速](https://su.baidu.com/)
 
 ## 六、服务商
 云服务器
