@@ -12,24 +12,16 @@
 > 例子：`//{app}.lrcdn.cn/static/styles/commons.css`
 
 ## 三、项目网址
-- 测试环境
-> 例子：`https://{app}.test.liruan.cn`
-- 预生产环境
-> 例子：`https://{app}.beta.liruan.cn`
-- 生产环境
-> 例子：`https://www.{app}.cn` 或 `https://{app}.prod.liruan.cn`
+- 测试环境：`https://{app}.test.liruan.cn`
+- 预生产环境：`https://{app}.beta.liruan.cn`
+- 生产环境：`https://www.{app}.cn` 或 `https://{app}.prod.liruan.cn`
 
 ## 四、时间
-- 例会
-> [周一]  10:00-11:00
-- 技术分享会
-> [周二]  10:00-12:00
-- 数据备份
-> [每天]  01:00-04:00
-- 大版本发布
-> [周四]  18:30
-- hotfix 发布
-> 随时
+- 例会：[周一]  10:00-11:00
+- 技术分享会：[周二]  10:00-12:00
+- 数据备份：[每天]  01:00-04:00
+- 大版本发布：[周四]  18:30
+- hotfix 发布：随时，严重 bug 需在 4 个小时内发布
 
 ## 五、工具
 - IDE：WebStorm、PhpStorm；
