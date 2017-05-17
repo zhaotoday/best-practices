@@ -52,7 +52,7 @@ IDE
 部署系统
 > [瓦力上线部署](https://walle-web.io/)
 
-搭建自助 Git 服务
+自助 git 服务
 > [gogs](https://gogs.io/)
 
 git 工作流
