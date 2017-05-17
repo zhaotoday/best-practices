@@ -31,15 +31,9 @@
 - hotfix 发布
 > 随时
 
-## 五、IDE
-WebStorm、PhpStorm
-
-## 六、环境
+## 五、工具
+- IDE：WebStorm、PhpStorm；
 - 控制面板：[宝塔](https://www.bt.cn/)；
 - 服务器环境：php + nginx；
-
-## 七、部署系统
-[瓦力上线部署](https://walle-web.io/)
-
-## 八、git 工作流
-[gitflow 工作流](https://github.com/zhaotoday/product-workflow)
+- 部署系统：[瓦力上线部署](https://walle-web.io/)；
+- git 工作流：[gitflow 工作流](https://github.com/zhaotoday/product-workflow)；
