@@ -64,6 +64,9 @@ git 工作流
 CDN 加速、防 DDos
 > [知道创宇云安全](https://www.yunaq.com/)、[百度云加速](https://su.baidu.com/)
 
+DNS（宕机检测、故障时切换到备用 IP）
+> [CloudXNS](https://www.cloudxns.net/)、[DNS 盾](https://www.dnsdun.com/)、[DNSLA](https://www.dns.la/) 
+
 ## 六、服务商
 云服务器
 > [小鸟云](https://www.niaoyun.com/)、[腾讯云](https://www.qcloud.com/)、[景安](http://www.zzidc.com/)、[阿里云](https://www.aliyun.com/)
@@ -72,4 +75,4 @@ CDN
 > [七牛云](https://www.qiniu.com/)
 
 代码托管
-> [码云](http://git.oschina.net/)
+> [码云](http://git.oschina.net/)、[阿里云](https://code.aliyun.com/)
