@@ -70,6 +70,9 @@ DNS（宕机检测、故障时切换到备用 IP）
 图标管理
 > [Iconfont](http://www.iconfont.cn/)
 
+翻墙
+> [Proxy SwitchySharp](https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm)
+
 ## 六、服务商
 云服务器
 > [小鸟云](https://www.niaoyun.com/)、[腾讯云](https://www.qcloud.com/)、[景安](http://www.zzidc.com/)、[阿里云](https://www.aliyun.com/)
