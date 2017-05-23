@@ -85,6 +85,9 @@ Markdown 编辑器
 接口调试
 > [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
 
+MySQL 数据库管理
+> Navicat
+
 ## 六、服务商
 云服务器
 > [小鸟云](https://www.niaoyun.com/)、[腾讯云](https://www.qcloud.com/)、[景安](http://www.zzidc.com/)、[阿里云](https://www.aliyun.com/)
