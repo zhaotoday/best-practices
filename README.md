@@ -36,7 +36,7 @@
 hotfix 发布
 > [随时]  严重 bug 需在 4 个小时内发布
 
-## 规范
+## 开发规范
 git 工作流
 > [git flow 工作流](https://github.com/zhaotoday/product-workflow)
 
