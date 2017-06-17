@@ -96,6 +96,9 @@ DNS（宕机检测、故障时切换到备用 IP）
 前端公共库 CDN
 > [BootCDN](http://www.bootcdn.cn/)
 
+SSL 证书
+> [腾讯云 SSL 证书](https://www.qcloud.com/product/ssl)
+
 ## 服务商
 域名
 > [爱名网](https://www.22.cn/)、[易名中国](http://www.ename.com/)、[万网](https://wanwang.aliyun.com/)
