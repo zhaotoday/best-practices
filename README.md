@@ -1,7 +1,7 @@
-## 一、协议
+## 协议
 网址、API 地址和静态资源地址等，统一使用 HTTPS 协议。
 
-## 二、CDN
+## CDN
 #### 1. 公共库 CDN
 公共库的引用请用 `cdn.liruan.cn` 域名，请到 [CDNJS](https://cdnjs.com/) 上获取公共库的最新版本。
 > 如：`//cdn.liruan.cn/jquery/3.2.1/jquery.min.js`
@@ -10,7 +10,7 @@
 项目静态资源请用 `lrcdn.cn` 域名。
 > 如：`//{app}.lrcdn.cn/static/styles/commons.css`
 
-## 三、项目环境地址
+## 项目环境地址
 测试环境
 > `https://{app}.test.liruan.cn`
 
@@ -20,7 +20,7 @@
 生产环境
 > `https://www.{app}.cn` 或 `https://{app}.prod.liruan.cn`
 
-## 四、时间管理
+## 时间管理
 例会
 > [周一]  10:00-11:00
 
@@ -35,6 +35,10 @@
 
 hotfix 发布
 > [随时]  严重 bug 需在 4 个小时内发布
+
+## 规范
+git 工作流
+> [git flow 工作流](https://github.com/zhaotoday/product-workflow)
 
 ## 五、工具
 IDE
@@ -54,9 +58,6 @@ IDE
 
 自助 git 服务
 > [gogs](https://gogs.io/)
-
-git 工作流
-> [gitflow 工作流](https://github.com/zhaotoday/product-workflow)
 
 命令行工具
 > Windows 下推荐使用 [cmder](http://cmder.net/)
