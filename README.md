@@ -40,15 +40,15 @@ hotfix 发布
 git 工作流
 > [git flow 工作流](https://github.com/zhaotoday/product-workflow)
 
-## 五、工具
+服务器环境
+> php + nginx
+
+## 开发工具
 IDE
 > WebStorm、PhpStorm
 
 控制面板
 > [宝塔](https://www.bt.cn/)
-
-服务器环境
-> php + nginx
 
 服务器安全软件
 > [云锁](http://www.yunsuo.com.cn/)
@@ -61,12 +61,6 @@ IDE
 
 命令行工具
 > Windows 下推荐使用 [cmder](http://cmder.net/)
-
-CDN 加速、防 DDos
-> [知道创宇云安全](https://www.yunaq.com/)、[百度云加速](https://su.baidu.com/)
-
-DNS（宕机检测、故障时切换到备用 IP）
-> [CloudXNS](https://www.cloudxns.net/)、[DNS 盾](https://www.dnsdun.com/)、[DNSLA](https://www.dns.la/) 
 
 图标管理
 > [Iconfont](http://www.iconfont.cn/)
@@ -89,17 +83,27 @@ Markdown 编辑器
 MySQL 数据库管理
 > Navicat
 
+## 云服务
+CDN 加速、防 DDos
+> [知道创宇云安全](https://www.yunaq.com/)、[百度云加速](https://su.baidu.com/)、[快云 CDN](http://www.kuaiyun.cn/cdnindex)
+
+DNS（宕机检测、故障时切换到备用 IP）
+> [CloudXNS](https://www.cloudxns.net/)、[DNS 盾](https://www.dnsdun.com/)、[DNSLA](https://www.dns.la/) 
+
 前端公共库 CDN
 > [BootCDN](http://www.bootcdn.cn/)
 
 API 协作管理
 > [apizza](http://apizza.cc/)
 
-## 六、服务商
+## 服务商
+域名
+> [爱名网](https://www.22.cn/)、[易名中国](http://www.ename.com/)、[万网](https://wanwang.aliyun.com/)
+
 云服务器
 > [小鸟云](https://www.niaoyun.com/)、[腾讯云](https://www.qcloud.com/)、[景安](http://www.zzidc.com/)、[阿里云](https://www.aliyun.com/)
 
-CDN
+云存储、CDN
 > [七牛云](https://www.qiniu.com/)
 
 代码托管
