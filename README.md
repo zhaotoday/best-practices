@@ -36,12 +36,15 @@
 hotfix 发布
 > [随时]  严重 bug 需在 4 个小时内发布
 
-## 开发规范
+## 规范
 git 工作流
 > [git flow 工作流](https://github.com/zhaotoday/product-workflow)
 
 服务器环境
 > php + nginx
+
+开发规范
+> ...
 
 ## 开发工具
 IDE
@@ -85,6 +88,9 @@ MySQL 数据库管理
 
 API 协作管理
 > [apizza](http://apizza.cc/)
+
+Axure 原型工具
+> [AntD Library](http://library.ant.design/)
 
 ## 云服务
 CDN 加速、防 DDos
