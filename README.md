@@ -83,6 +83,9 @@ Markdown 编辑器
 MySQL 数据库管理
 > Navicat
 
+API 协作管理
+> [apizza](http://apizza.cc/)
+
 ## 云服务
 CDN 加速、防 DDos
 > [知道创宇云安全](https://www.yunaq.com/)、[百度云加速](https://su.baidu.com/)、[快云 CDN](http://www.kuaiyun.cn/cdnindex)
@@ -92,9 +95,6 @@ DNS（宕机检测、故障时切换到备用 IP）
 
 前端公共库 CDN
 > [BootCDN](http://www.bootcdn.cn/)
-
-API 协作管理
-> [apizza](http://apizza.cc/)
 
 ## 服务商
 域名
