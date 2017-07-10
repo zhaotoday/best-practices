@@ -47,6 +47,9 @@ git 工作流
 > ...
 
 ## 开发工具
+切图及标注工具
+> [NoMark](http://www.effectiveall.com/)
+
 IDE
 > WebStorm、PhpStorm
 
