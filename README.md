@@ -47,6 +47,9 @@ git 工作流
 > ...
 
 ## 开发工具
+团队协作、项目管理
+> [Team@OSC](https://team.oschina.net/)、[iCafe@Baidu](http://cafe.baidu.com/)
+
 切图及标注工具
 > [NoMark](http://www.effectiveall.com/)
 
