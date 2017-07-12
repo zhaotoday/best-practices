@@ -47,9 +47,6 @@ git 工作流
 > ...
 
 ## 开发工具
-团队协作、项目管理
-> [Team@OSC](https://team.oschina.net/)、[iCafe@Baidu](http://cafe.baidu.com/)
-
 切图及标注工具
 > [NoMark](http://www.effectiveall.com/)
 
@@ -116,6 +113,9 @@ DNS（宕机检测、故障时切换到备用 IP）
 
 SSL 证书
 > [腾讯云 SSL 证书](https://www.qcloud.com/product/ssl)
+
+团队协作、项目管理
+> [Team@OSC](https://team.oschina.net/)、[iCafe@Baidu](http://cafe.baidu.com/)
 
 ## 服务商
 域名
