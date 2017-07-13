@@ -117,6 +117,9 @@ SSL 证书
 团队协作、项目管理
 > [Team@OSC](https://team.oschina.net/)、[iCafe@Baidu](http://cafe.baidu.com/)、[EasyPM](https://easypm.cn/)
 
+> 短信
+[野狗](https://www.wilddog.com/product/message-overview)
+
 ## 服务商
 域名
 > [爱名网](https://www.22.cn/)、[易名中国](http://www.ename.com/)、[万网](https://wanwang.aliyun.com/)
