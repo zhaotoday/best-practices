@@ -99,7 +99,7 @@ Axure 原型工具
 > [腾讯企业邮](https://exmail.qq.com/)
 
 团队沟通
-> [企业微信](https://work.weixin.qq.com/?from=mp_home)
+> [企业微信](https://work.weixin.qq.com/?from=mp_home)、[零信](https://pubu.im/)
 
 ## 云服务
 CDN 加速、防 DDos
