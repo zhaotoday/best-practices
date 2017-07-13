@@ -117,8 +117,11 @@ SSL 证书
 团队协作、项目管理
 > [Team@OSC](https://team.oschina.net/)、[iCafe@Baidu](http://cafe.baidu.com/)、[EasyPM](https://easypm.cn/)
 
-> 短信
-[野狗](https://www.wilddog.com/product/message-overview)
+短信
+> [野狗](https://www.wilddog.com/product/message-overview)
+
+云端文档、表格
+> [石墨文档](https://shimo.im/)
 
 ## 服务商
 域名
