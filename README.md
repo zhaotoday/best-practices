@@ -141,3 +141,6 @@ SSL 证书
 
 企业云盘
 > [360 企业云盘](https://eyun.360.cn/)
+
+聚合支付
+> [ping++](https://www.pingxx.com/)
