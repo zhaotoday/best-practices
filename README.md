@@ -115,7 +115,7 @@ SSL 证书
 > [腾讯云 SSL 证书](https://www.qcloud.com/product/ssl)
 
 团队协作、项目管理
-> [Team@OSC](https://team.oschina.net/)、[iCafe@Baidu](http://cafe.baidu.com/)、[EasyPM](https://easypm.cn/)
+> [Team@OSC](https://team.oschina.net/)、[iCafe@Baidu](http://cafe.baidu.com/)、[EasyPM](https://easypm.cn/)、[Teambition](https://www.teambition.com/)
 
 短信
 > [野狗](https://www.wilddog.com/product/message-overview)
