@@ -101,6 +101,9 @@ Axure 原型工具
 团队沟通
 > [企业微信](https://work.weixin.qq.com/?from=mp_home)、[零信](https://pubu.im/)
 
+Mock
+> [Easy Mock](http://easy-mock.com/)
+
 ## 云服务
 CDN 加速、防 DDos
 > [知道创宇云安全](https://www.yunaq.com/)、[百度云加速](https://su.baidu.com/)、[快云 CDN](http://www.kuaiyun.cn/cdnindex)
