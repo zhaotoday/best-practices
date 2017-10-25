@@ -59,6 +59,9 @@ IDE
 服务器安全软件
 > [云锁](http://www.yunsuo.com.cn/)
 
+其他服务器软件
+> [swish-sftp（将 SSH/SFTP 集成入资源管理器管理文件）](http://www.swish-sftp.org/)
+
 部署系统
 > [瓦力上线部署](https://walle-web.io/)
 
