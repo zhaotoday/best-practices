@@ -156,3 +156,6 @@ SSL 证书
 
 聚合支付
 > [ping++](https://www.pingxx.com/)
+
+小程序后端云服务
+> [知晓云](https://cloud.minapp.com/)
