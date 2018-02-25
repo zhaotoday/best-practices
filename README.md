@@ -146,7 +146,7 @@ Node.js 性能平台
 > [爱名网](https://www.22.cn/)、[易名中国](http://www.ename.com/)、[万网](https://wanwang.aliyun.com/)
 
 云服务器
-> [小鸟云](https://www.niaoyun.com/)、[腾讯云](https://www.qcloud.com/)、[景安](http://www.zzidc.com/)、[阿里云](https://www.aliyun.com/)、[美团云](https://www.mtyun.com/)、[尊云](http://www.zun.com/)、[天翼云](http://www.ctyun.cn/)、[百度云](https://cloud.baidu.com/)
+> [小鸟云](https://www.niaoyun.com/)、[腾讯云](https://www.qcloud.com/)、[景安](http://www.zzidc.com/)、[阿里云](https://www.aliyun.com/)、[美团云](https://www.mtyun.com/)、[尊云](http://www.zun.com/)、[天翼云](http://www.ctyun.cn/)、[百度云](https://cloud.baidu.com/)、[华为云](http://www.huaweicloud.com)
 
 云存储、CDN
 > [七牛云](https://www.qiniu.com/)
