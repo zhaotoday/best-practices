@@ -141,6 +141,9 @@ SSL 证书
 Node.js 性能平台
 > [阿里云 Node.js 性能平台](https://node.console.aliyun.com/)
 
+移动推送
+> [腾讯移动推送](http://xg.qq.com)
+
 ## 服务商
 域名
 > [爱名网](https://www.22.cn/)、[易名中国](http://www.ename.com/)、[万网](https://wanwang.aliyun.com/)
