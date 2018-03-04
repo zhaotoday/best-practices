@@ -110,6 +110,9 @@ Axure 原型工具
 Mock
 > [Easy Mock](http://easy-mock.com/)
 
+App 一站式解决方案
+> [阿里轻舟](https://boat.alibaba.com) 
+
 ## 云服务
 CDN 加速、防 DDos
 > [知道创宇云安全](https://www.yunaq.com/)、[百度云加速](https://su.baidu.com/)、[快云 CDN](http://www.kuaiyun.cn/cdnindex)
