@@ -147,6 +147,9 @@ Node.js 性能平台
 移动推送
 > [腾讯移动推送](http://xg.qq.com)
 
+付费接口
+> [极速数据](http://www.jisuapi.com)、[聚合数据](https://www.juhe.cn)、[百度 API 服务](http://apistore.baidu.com)
+
 ## 服务商
 域名
 > [爱名网](https://www.22.cn/)、[易名中国](http://www.ename.com/)、[万网](https://wanwang.aliyun.com/)
