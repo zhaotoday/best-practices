@@ -148,7 +148,7 @@ Node.js 性能平台
 > [腾讯移动推送](http://xg.qq.com)
 
 付费接口
-> [极速数据](http://www.jisuapi.com)、[聚合数据](https://www.juhe.cn)、[百度 API 服务](http://apistore.baidu.com)
+> [极速数据](http://www.jisuapi.com)、[聚合数据](https://www.juhe.cn)、[百度 API 服务](http://apistore.baidu.com)、[iDataAPI](http://www.idataapi.cn)
 
 ## 服务商
 域名
