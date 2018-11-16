@@ -12,7 +12,7 @@
 
 ## 环境命名规范
 开发环境
-> 网站：`https://{app}.dev.liruan.cn`
+> 网站：`https://{app}.dev.liruan.cn`  
 > API：`https://{app}-api.dev.liruan.cn`
 > CDN：`//{app}.dev.lrcdn.cn`
 > 数据库：`{app}-dev`
