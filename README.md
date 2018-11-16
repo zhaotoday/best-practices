@@ -11,6 +11,9 @@
 > 如：`//{app}.lrcdn.cn/static/styles/commons.css`
 
 ## 项目环境地址
+开发环境
+> `https://{app}.dev.liruan.cn`
+
 测试环境
 > `https://{app}.test.liruan.cn`
 
@@ -18,7 +21,7 @@
 > `https://{app}.beta.liruan.cn`
 
 生产环境
-> `https://www.{app}.cn` 或 `https://{app}.prod.liruan.cn`
+> `https://www.{app}.cn` 或 `https://{app}.liruan.cn`
 
 ## 时间管理
 例会
