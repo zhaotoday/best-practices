@@ -14,30 +14,35 @@
 开发环境
 > 网站：`https://{app}.dev.liruan.cn`  
 > API：`https://{app}-api.dev.liruan.cn`  
+> 管理后台：`https://{app}-admin.dev.liruan.cn`  
 > CDN：`//{app}.dev.lrcdn.cn`  
 > 数据库：`{app}-dev`
 
-测试环境
+测试环境（可选）
 > 网站：`https://{app}.test.liruan.cn`  
 > API：`https://{app}-api.test.liruan.cn`  
+> 管理后台：`https://{app}-admin.test.liruan.cn`  
 > CDN：`//{app}.test.lrcdn.cn`  
 > 数据库：`{app}-test`
 
-预生产环境
+预生产环境（可选）
 > 网站：`https://{app}.beta.liruan.cn`  
 > API：`https://{app}-api.beta.liruan.cn`  
+> 管理后台：`https://{app}-admin.beta.liruan.cn`  
 > CDN：`//{app}.beta.lrcdn.cn`  
 > 数据库：`{app}-beta`
 
 生产环境
 > 网站：`https://www.{app}.cn` 或 `https://{app}.liruan.cn`  
 > API：`https://{app}-api.liruan.cn`  
+> 管理后台：`https://admin.{app}.cn` 或 `https://{app}-admin.liruan.cn`  
 > CDN：`//{app}.lrcdn.cn`  
 > 数据库：`{app}`
 
 Git 仓库项目名
 > 网站：`{app}`  
-> API：`{app}-api`
+> API：`{app}-api`  
+> 管理后台：`{app}-admin`
 
 ## 时间管理
 例会
