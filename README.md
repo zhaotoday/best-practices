@@ -19,18 +19,10 @@
 > 数据库：`{app}-dev`
 
 测试环境（可选）
-> 网站：`https://{app}.test.liruan.cn`  
-> API：`https://{app}-api.test.liruan.cn`  
-> 管理后台：`https://{app}-admin.test.liruan.cn`  
-> CDN：`//{app}.test.lrcdn.cn`  
-> 数据库：`{app}-test`
+> 类似开发环境
 
 预生产环境（可选）
-> 网站：`https://{app}.beta.liruan.cn`  
-> API：`https://{app}-api.beta.liruan.cn`  
-> 管理后台：`https://{app}-admin.beta.liruan.cn`  
-> CDN：`//{app}.beta.lrcdn.cn`  
-> 数据库：`{app}-beta`
+> 类似开发环境
 
 生产环境
 > 网站：`https://www.{app}.cn` 或 `https://{app}.liruan.cn`  
